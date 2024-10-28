@@ -1,12 +1,11 @@
-# Phong_N3_T4C2
-<h1>Hello Everyone</h1>
-
-  ## 🚀 About Me
- <li>👋 Hi, I’m @nguyenhothanhphong (nguyenhothanhphongT4C2)</li>
+<div align="center">
+  <img src="![z5976936987126_27900de89247cdd00efa2b89b7d99b15](https://github.com/user-attachments/assets/a58ae71e-198f-468a-ba5d-407526db3177)" alt="Profile Image" width="200" height="200" style="border-radius: 50%;">
+   <li>👋 Hi, I’m @nguyenhothanhphong (nguyenhothanhphongT4C2)</li>
  <li> I 💖 Anime</li>
  <li> I 🕹️ Valorant and Genshin Impact
  <li><em>Front-end Developer | Android Development</em></li>
- 
+</div>
+
 ## 📫How to reach me: 
  <p align="center">
   <a href="https://www.youtube.com/@PhongNguyen-ch9hv"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>
