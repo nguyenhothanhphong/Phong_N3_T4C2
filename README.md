@@ -49,7 +49,6 @@
 </p>
 
 ## 😎 Contributor
-
 <table>
   <tr>
     <td align="center"><a href="https://github.com/fleeforezz"><img src="https://avatars.githubusercontent.com/u/129656223?v=4" width="100px;" alt=""/><br /><sub><b>Minh Nhật</b></sub></a></td>
@@ -65,6 +64,7 @@
 Got an exciting project or collaboration opportunity? Reach out to me!
 
 - 📧 Email: nguyenhothanhphong5@gmail.com
+- 📱 Phone: 0931429277
 
 ## 🎉 Thanks for visiting!
   <img src="https://komarev.com/ghpvc/?username=nguyenhothanhphong&color=f4d8dc" alt="Profile views">
