@@ -1,5 +1,5 @@
 <div align="center">
-  <![z5976936987126_27900de89247cdd00efa2b89b7d99b15](https://github.com/user-attachments/assets/a58ae71e-198f-468a-ba5d-407526db3177) alt="Profile Image" width="200" height="200" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/145427852?v=4" alt="Profile Image" width="200" height="200" style="border-radius: 50%;">
    <li>👋 Hi, I’m @nguyenhothanhphong (nguyenhothanhphongT4C2)</li>
  <li> I 💖 Anime</li>
  <li> I 🕹️ Valorant and Genshin Impact
