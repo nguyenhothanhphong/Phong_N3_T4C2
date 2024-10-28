@@ -36,14 +36,12 @@
 
 ## 🏆 GitHub Achievements
 <div>
-   <p align="center">
-    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenhothanhphong&show_icons=true&theme=nightowl" />
-       </p>
-    <br></br>
+    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api?username=phongdz76&show_icons=true&theme=nightowl" />
+    <img height="190em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phongdz76&layout=compact&theme=nightowl" alt="Top Languages">
 </div>
 <br></br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenhothanhphong&theme=nightowl" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phongdz76&theme=nightowl" alt="GitHub Streak">
 </p>
 
 ## 😎 Contributor
