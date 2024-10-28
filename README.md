@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/145427852?v=4" alt="Profile Image" width="200" height="200" style="border-radius: 50%;">
 </div>
 
-  <li>👋 Hi, I’m @nguyenhothanhphong (nguyenhothanhphongT4C2)</li>
+ <li>👋 Hi, I’m @nguyenhothanhphong (nguyenhothanhphongT4C2)</li>
  <li> I 💖 Anime</li>
  <li> I 🕹️ Valorant and Genshin Impact
  <li><em>Front-end Developer | Android Development</em></li>
