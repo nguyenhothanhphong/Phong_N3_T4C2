@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/145427852?v=4" alt="Profile Image" width="200" height="200" style="border-radius: 100%">
-   <li>👋 Hi, I’m @nguyenhothanhphong (nguyenhothanhphongT4C2)</li>
+   <h1>👋 Hi, I’m @nguyenhothanhphong (nguyenhothanhphongT4C2)</h1>
 </div>
 
 ## 🚀 About Me
